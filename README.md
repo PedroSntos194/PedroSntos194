@@ -31,8 +31,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/PedroSntos194/PedroSntos194/output/snake.svg" alt="Snake animation" />
-
 ###
