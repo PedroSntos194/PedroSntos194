@@ -7,7 +7,7 @@
 Construo sistemas web para problemas do dia a dia, do banco de dados aos detalhes da interface.
 Gosto de produtos úteis, código bem testado e interações que fazem sentido para quem usa.
 
-[LinkedIn](https://www.linkedin.com/in/pedro-henrique-santos-4bb692263/) · [E-mail](mailto:pedrosntos194@gmail.com)
+[Portfólio](https://pedrosntos194-portfolio.spryelk5.chatgpt.site/) · [LinkedIn](https://www.linkedin.com/in/pedro-henrique-santos-4bb692263/) · [E-mail](mailto:pedrosntos194@gmail.com)
 
 ### Projetos em destaque
 
@@ -17,7 +17,7 @@ Gosto de produtos úteis, código bem testado e interações que fazem sentido p
 - **[Vestia](https://github.com/PedroSntos194/vestia)** — closet digital e stylist pessoal: sugestões de looks com as próprias peças, uso offline e IA opcional.  
   `React` · `TypeScript` · `IndexedDB` · `Claude API` · `PWA`
 
-- **Jujuba** — wishlist compartilhada para casais, com modo surpresa e avisos em tempo real. Projeto pessoal com código privado.  
+- **[Jujuba](https://jujuba-app.vercel.app)** — wishlist compartilhada para casais, com modo surpresa e avisos em tempo real. Projeto pessoal com código privado.  
   `Next.js` · `Supabase` · `PWA`
 
 ### Projetos em equipe
