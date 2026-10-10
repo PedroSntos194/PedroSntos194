@@ -1,34 +1,39 @@
-<h2 align="left">Hi 👋! My name is Pedro Henrique.</h2>
+<p>
+  <img src="./assets/header.svg" alt="Pedro Henrique — Do dado ao detalhe. Desenvolvedor Full-Stack e Front-End." width="1200" />
+</p>
 
-###
+## Olá, eu sou Pedro Henrique
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroSntos194&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroSntos194&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Construo sistemas web para problemas do dia a dia, do banco de dados aos detalhes da interface.
+Gosto de produtos úteis, código bem testado e interações que fazem sentido para quem usa.
 
-###
+[LinkedIn](https://www.linkedin.com/in/pedro-henrique-santos-4bb692263/) · [E-mail](mailto:pedrosntos194@gmail.com)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
+### Projetos em destaque
 
-###
+- **[Bordo](https://github.com/PedroSntos194/bordo-diario-de-bordo-portfolio)** — diário de bordo digital que substituiu o papel em uma frota de vans. Registros pelo celular, uso offline e acompanhamento da operação pela administração. A versão pública usa marca e dados fictícios.  
+  `Next.js` · `React` · `TypeScript` · `PostgreSQL` · `Prisma` · `PWA` · `Vitest`
 
-<div align="left">
-  <a href="https://www.instagram.com/p_p3dro12_?igsh=c2pxdG0zdGkxNzBi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="pedrosntos194@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/pedro-henrique-santos-4bb692263/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+- **[Vestia](https://github.com/PedroSntos194/vestia)** — closet digital e stylist pessoal: sugestões de looks com as próprias peças, uso offline e IA opcional.  
+  `React` · `TypeScript` · `IndexedDB` · `Claude API` · `PWA`
 
-###
+- **Jujuba** — wishlist compartilhada para casais, com modo surpresa e avisos em tempo real. Projeto pessoal com código privado.  
+  `Next.js` · `Supabase` · `PWA`
 
-###
+### Projetos em equipe
+
+- **[Joga Junto](https://github.com/Challenge-JogaJunto/jogajunto-site)** — plataforma voltada ao futebol feminino, conectando jogadoras, clubes e olheiros.  
+  `React` · `JavaScript` · `Tailwind CSS`
+
+- **[MentoAI](https://github.com/MentoAi-ChallengeTOTVS/mentoai-api)** — copiloto comercial do challenge TOTVS que transforma transcrições de reuniões em resumos, insights e sinais para acompanhar clientes.  
+  `Next.js` · `TypeScript` · `Java` · `Spring Boot` · `Gemini` · `Oracle`
+
+### Com o que eu trabalho
+
+**Interfaces:** React, Next.js, TypeScript e Tailwind CSS.  
+**Dados e aplicação:** PostgreSQL, Prisma, Supabase e APIs.  
+**Qualidade e entrega:** Vitest, Git, Docker e PWAs com suporte offline.
+
+---
+
+Tem uma ideia para tirar do papel? [Vamos conversar.](mailto:pedrosntos194@gmail.com)
