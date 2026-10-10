@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Pedro Henrique — Do dado ao detalhe.</title>
+  <desc id="desc">Banner preto e roxo com uma forma geométrica em arame. Desenvolvedor full-stack e front-end.</desc>
+  <defs>
+    <radialGradient id="glow"><stop stop-color="#8b6cff" stop-opacity=".15"/><stop offset="1" stop-color="#8b6cff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="360" rx="20" fill="#0c0c0e"/>
+  <rect x=".5" y=".5" width="1199" height="359" rx="20" fill="none" stroke="#28232f"/>
+  <circle cx="986" cy="177" r="215" fill="url(#glow)"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="54" y="57" fill="#f3efe8" font-size="22" font-weight="700">Pedro Henrique</text>
+    <text x="54" y="151" fill="#f3efe8" font-size="78" font-weight="700" letter-spacing="-4">Do dado</text>
+    <text x="54" y="235" fill="#b99aff" font-size="78" font-weight="700" font-style="italic" letter-spacing="-4">ao detalhe.</text>
+    <text x="58" y="302" fill="#a3a0aa" font-size="21">Desenvolvedor Full-Stack &amp; Front-End</text>
+  </g>
+  <g fill="none" stroke="#b99aff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="982" cy="179" r="135" stroke-opacity=".12"/>
+    <path d="M901 65 1052 79 1120 180 1052 296 899 266 838 145Z" stroke-opacity=".75"/>
+    <path d="M901 65 988 135 1052 79 1014 209 1120 180 988 135 838 145 1014 209 1052 296 933 188 899 266 1014 209 901 65 933 188 838 145M988 135 933 188 1052 79M899 266 988 135 1052 296M901 65 1120 180 899 266M933 188 1120 180" stroke-opacity=".45"/>
+  </g>
+  <path d="M56 329H1144" stroke="#28232f"/>
+</svg>
